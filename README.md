@@ -26,5 +26,5 @@
 
 11. Open Application Loader by clicking Xcode > Open Developer Tools > Application Loader.
 
-12. Press the Deliver Your App button and upload your re-signed ipa, which has the name my-resigned.ipa.
+12. Press the Deliver Your App button and upload your re-signed ipa, which has the name my-resign.ipa.
 
